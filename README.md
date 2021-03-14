@@ -17,8 +17,9 @@ A 'data' folder with the following folders and content:
 
 This ReadMe file
 
+The bonus section is intentionally left blank
 
-The following is the prompt that was given for this homework assignment
+The following is the prompt that was given for this homework assignment:
 
 ## Background
 
